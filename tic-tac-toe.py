@@ -57,7 +57,6 @@ def FinishedGame(i) :
       
 window = Tk()
 counter=0
-
 player = "X"
 list= []
 window.geometry('180x170+10+10')
